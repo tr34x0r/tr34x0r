@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.pinimg.com/originals/17/a9/00/17a900d73f0a8091413037a6f8ffb5f1.gif"  width="100" height="90" ></p><hr>
+<p align="center"><img src="https://moein.video/wp-content/uploads/2022/05/Eye-GIF-Free-Animated-Icon-350px-after-effects-project-3.gif"  width="100" height="90" ></p><hr>
 <p align="center">
   <b>TR34X0R &nbsp; <img src="https://1.bp.blogspot.com/-_gmOYtWTM6Q/YEURE7JAebI/AAAAAAAA4_M/ruYw1GnjZgsPg56kCcHzR7jPoxnaAbDcwCLcBGAsYHQ/s0/Flag_of_Tajikistan.gif" width="30" height="20"></b>
 </p>
