@@ -1,9 +1,9 @@
 <p align="center"><img src="https://media.tenor.com/lnIiqHsigmUAAAAS/eye-blink.gif"  width="100" height="90" ></p><hr>
 <p align="center">
-  <b>TR34X0R</b>
+  <b>TR34X0R &nbsp; <img src="https://1.bp.blogspot.com/-_gmOYtWTM6Q/YEURE7JAebI/AAAAAAAA4_M/ruYw1GnjZgsPg56kCcHzR7jPoxnaAbDcwCLcBGAsYHQ/s0/Flag_of_Tajikistan.gif" width="30" height="20"></b>
 </p>
 <br><b>Detailed information about me:<br><br>- C/EH & CDN Certified<br>- Osint expertize<br>- Fullstack Dev</b>
-<br><b>Languages i work with:</b><br><b> </b>
+<br><br><b>Languages i work with:</b><br><b> </b>
 <br> 
 <p float="left">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> &nbsp;
@@ -41,7 +41,13 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
   </p>
+  <br><b>My statistics:</b><br>
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=tr34x0r&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tr34x0r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
+  <br>
   <hr>
   
   <p align="center">
@@ -49,3 +55,5 @@
         <a href="https://t.me/tr34x0r"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
         <a href="mailto:tr34x0r@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </p>
+
+
